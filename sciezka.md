@@ -5,7 +5,9 @@ Mam 19 lat i pochodzę z Olsztyna. Interesuję się informatyką od kilku lat. A
 
 ## Umiejętnści:
 -podstawy języka C++
+
 -matematyka i logiczne myślenie
+
 -myślenie analityczne
 
 ## Cele na studiach
